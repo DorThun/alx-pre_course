@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash"
 =======
 #!/bin/bash
 >>>>>>> update_script
+=======
+
+>>>>>>> refs/remotes/origin/master
 echo "The school is open!"
